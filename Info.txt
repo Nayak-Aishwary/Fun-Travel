@@ -1,0 +1,12 @@
+Fun-Travel-Travel fare service
+
+Login-Credentials:
+Users: admin/darrel/aish
+Password: fun123
+
+Link:
+http://localhost:8082/
+
+For in-memory db:
+http://localhost:8082/h2-console/
+
